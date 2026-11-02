@@ -1,8 +1,10 @@
 streamlit>=1.32.0
 mediapipe==0.10.13
 protobuf>=4.25.3,<5.0.0
-opencv-contrib-python-headless
+opencv-contrib-python-headless>=4.9.0
 numpy>=1.24.0
 pandas>=2.0.0
+plotly
+streamlit-autorefresh
 joblib
 scikit-learn
