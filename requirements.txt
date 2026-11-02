@@ -4,3 +4,5 @@ protobuf>=4.25.3,<5.0.0
 opencv-contrib-python-headless
 numpy>=1.24.0
 pandas>=2.0.0
+joblib
+scikit-learn
