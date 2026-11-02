@@ -1,0 +1,19 @@
+# Python のキャッシュ
+__pycache__/
+# macOS が生成する不要ファイル
+.DS_Store
+# APIキーなどの秘密情報
+.env
+
+# 仮想環境
+venv/
+
+# その他不要フォルダ
+data/
+old/
+ver0.1/
+ver0.2_FR-06/
+ver0.3_FR-07/
+ver0.4_FR-07_自己申告UI追加/
+ver0.5_51特徴量化/
+ver0.6_特徴量デルタで特徴量MIモデル化/
